@@ -1,6 +1,8 @@
 # virgilio
 Design and development of a sensored stick for a blind person.
 
+In the "Descritpion.pdf" file you can find a short presentation of the project. 
+
 ### Prototype 
 
 Characteristics:  
