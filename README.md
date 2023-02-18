@@ -1,9 +1,8 @@
 # virgilio
 Design and development of a sensored stick for a blind person.
+In the "Descritpion.pdf" file you can find a short presentation of the project. 
 
 ![Alt text](https://github.com/guidosassaroli/virgilio/blob/main/graphic.png)
-
-In the "Descritpion.pdf" file you can find a short presentation of the project. 
 
 ### Prototype 
 
@@ -33,3 +32,8 @@ Components:
 -Case (3D printed) 
 -2 x ultrasonic sensors 
 -IMU (inertial measurement unit)  
+
+![Alt text](https://github.com/guidosassaroli/virgilio/blob/main/prototype.png)
+![Alt text](https://github.com/guidosassaroli/virgilio/blob/main/test.png)
+
+
